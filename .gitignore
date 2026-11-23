@@ -1,0 +1,11 @@
+.env
+*.db
+*.pt
+reports/
+tankers_map.html
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
