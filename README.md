@@ -33,7 +33,7 @@ python main.py forecast
 Code developed with the assistance of Claude (Anthropic).
 
 
-## Licence
+## License
 
 MIT
 
